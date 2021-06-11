@@ -4,6 +4,16 @@ html {
   text-align: center;
 }
 
+body { 
+    margin: 8px;
+    background-color:powderblue;
+    color: black;
+    height: 100%;
+    width: 100%;
+    display:block;
+    text-align: center;
+}
+
 #main{
   margin: 100px, auto;
   padding: 20px;
