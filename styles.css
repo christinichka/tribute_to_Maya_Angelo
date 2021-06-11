@@ -19,13 +19,14 @@ body {
   padding: 20px;
 }
 
-img{
+#image {
   padding-top: 100px;
   padding-bottom: 100px;
   max-width:250%;
   display: block;
   height: auto;
   margin: auto;  
+  align: right;
 }
 
 ul{
