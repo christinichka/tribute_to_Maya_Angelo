@@ -1,12 +1,12 @@
 html {
   font-family: Monteserrat-bold, Helevtiva, sans-serif;
-  background-color: #dddddd;
+/*   background-color: #dddddd; */
   text-align: center;
 }
 
 body { 
     margin: 8px;
-    background-color: powderblue;
+    background-color: lightblue;
     color: black;
     height: 100%;
     width: 100%;
