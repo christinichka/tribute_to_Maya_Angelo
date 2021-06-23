@@ -1,6 +1,6 @@
-html {
+/* html {
   font-family: Monteserrat-bold, Helevtiva, sans-serif;
-/*   background-color: #dddddd; */
+  background-color: #dddddd; 
   text-align: center;
 }
 
@@ -33,4 +33,14 @@ ul{
   max-width:550px;
   margin:0 auto;
   text-align:center;
+} 
+ */
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
