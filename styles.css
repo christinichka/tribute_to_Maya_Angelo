@@ -1,34 +1,37 @@
-html {
-  font-family: Monteserrat-bold, Helevtiva, sans-serif;
-}
-
-body { 
-    margin: 8px;
-    background: lightblue;
-    color: black;
-    height: 100%;
-    width: 100%; 
-    display: block;
-    text-align: center;
+html, body {
+  font-family: "Monteserrat-bold", Helevtiva, sans-serif;
+  text-align: center;
+  color:#333
+  margin: 8px;
+  background: linen;
+  color: black;
+  height: 100%;
+  width: 100%; 
+  display: block;
+  text-align: center;
 }
 
 #main{
-  margin: 100px, auto;
+  margin: 30px, auto;
   padding: 20px;
 }
 
-img {
-  padding-top: 100px;
-  padding-bottom: 100px;
+img{
+  padding-top: 30px;
+  padding-bottom: 20px;
   max-width:250%;
   display: block;
   height: auto;
   margin: auto;  
-  align: right;
 }
 
 ul{
   max-width:550px;
   margin:0 auto;
-  text-align:center;
-} 
+  text-align:left;
+}
+
+
+
+
+ 
